@@ -17,3 +17,7 @@
 4. Install React Helmet async
 
    1. npm i react-helmet-async
+
+5. Install React Icons
+
+   1.npm install react-icons --save

@@ -20,4 +20,4 @@
 
 5. Install React Icons
 
-   1.npm install react-icons --save
+   1. npm install react-icons --save

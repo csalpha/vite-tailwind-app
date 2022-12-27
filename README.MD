@@ -21,3 +21,9 @@
 5. Install React Icons
 
    1. npm install react-icons --save
+
+6. Create NavBar
+
+7. Install Express.js
+
+   1. npm install express

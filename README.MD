@@ -27,3 +27,7 @@
 7. Install Express.js
 
    1. npm install express
+
+8. Install Mongoose
+
+   1. npm install mongoose

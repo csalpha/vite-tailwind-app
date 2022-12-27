@@ -31,3 +31,7 @@
 8. Install Mongoose
 
    1. npm install mongoose
+
+9. Install Dotenv
+
+   1. npm install dotenv
